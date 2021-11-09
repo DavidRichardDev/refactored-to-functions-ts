@@ -1,0 +1,16 @@
+{
+  "name": "refactored-to-functions-ts",
+  "version": "1.0.0",
+  "description": "Exercise",
+  "main": "index.js",
+  "repository": "git@github.com:DavidRichardDev/refactored-to-functions-ts.git",
+  "author": "David Richard <david.richard@acct.global>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/typescript": "^2.0.0",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
